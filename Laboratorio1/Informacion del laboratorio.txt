@@ -1,0 +1,6 @@
+Integrante: David Barreto - 2226218
+	Juan Moncayo - 2225678
+
+Consiste en instalar Nginx en nuestros equipos y crear diferentes puertos mínimo 2 máximo los que quiera.
+
+Pruebas: Estaran en las fotos dentro de la carpeta

@@ -1,0 +1,1 @@
+Se debe realizar un Api gatgeway - Load Balancer en nuestros servidores de Nginx
