@@ -6,7 +6,16 @@ Se debe realizar un Api gatgeway - Load Balancer en nuestros servidores de Nginx
 cambios realizados:
     .Se realizo una interfaz html simple en tres diferentes servidores en node.js
     .Se cambio el enrutamiento de los mismos servidores
-    .Se creo la carga de balance en el puerto localhost:80
+    .Se creo la carga de balance
     .Se configuro nginx.conf para que los servidores tuvieran su respectiva carga de balance
+    .Se configuro la Api de cada servidor
 
-Nota: Todos los servidores mostrados como evidencia corren en el puerto 80
+Nota: Todos los servidores mostrados como evidencia corren en:
+	http://localhost/videos
+	http://localhost:3001/api/videos
+
+	http://localhost/compras
+	http://localhost:3002/api/compras
+
+	http://localhost/usuarios
+	http://localhost:3003/api/usuarios
